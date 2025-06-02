@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name" translatable="false">One Media</string>
-    <string name="app_description">Third-party native Jellyfin app</string>
+    <string name="app_description">Android App for One Media Network</string>
     <string name="jellyfin_banner">Jellyfin banner</string>
     <string name="remove_server_address">Remove server address</string>
     <string name="remove_server_address_dialog_text">Are you sure you want to remove the server address %1$s</string>
     <string name="remove">Remove</string>
     <string name="cancel">Cancel</string>
     <string name="title_home">Home</string>
-    <string name="title_media">My media</string>
+    <string name="title_media">Library</string>
     <string name="title_favorite">Favorites</string>
     <string name="title_settings">Settings</string>
     <string name="title_download">Downloads</string>
@@ -84,7 +84,7 @@
     <string name="offline_mode_go_online">Go online</string>
     <string name="downloading_error">Error while downloading</string>
     <string name="not_enough_storage">This item requires %1$s of free storage but only %2$s is available</string>
-    <string name="no_server_connection">No connection to the Jellyfin server, to watch offline enable Offline Mode</string>
+    <string name="no_server_connection">No connection to the One Media server, to watch offline enable Offline Mode</string>
     <string name="select_storage_location">Select storage location</string>
     <string name="storage_unavailable">Storage location is unavailable</string>
     <string name="internal">Internal</string>
@@ -94,7 +94,7 @@
     <string name="cancel_download">Cancel download</string>
     <string name="cancel_download_message">Are you sure you want to cancel the download?</string>
     <string name="stop_download">Stop download</string>
-    <string name="privacy_policy_notice">By using Findroid you agree with the <a href='https://raw.githubusercontent.com/jarnedemeulemeester/findroid/main/PRIVACY'>Privacy Policy</a> which states that we do not collect any data</string>
+    <string name="privacy_policy_notice">By using One Media you agree with the <a href='https://akatsuki.world/privacy-policy'>Privacy Policy</a> which states that we do not collect any data</string>
     <string name="live_tv">Live TV</string>
     <string name="play">Play</string>
     <string name="watch_trailer">Watch trailer</string>
